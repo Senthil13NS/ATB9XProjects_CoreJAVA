@@ -16,5 +16,5 @@ public class Lab001 {
         System.out.println("10x11=110");
 
     }
-};
+}
 
